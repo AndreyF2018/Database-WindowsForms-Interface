@@ -1,0 +1,34 @@
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.exe.config
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.exe
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.Properties.Resources.resources
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.csproj.GenerateResource.Cache
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.exe
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.AdminLoginForm.resources
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.LoginForm.resources
+c:\users\home\документы\visual studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.AdminForm.resources
+C:\Users\Home\Документы\Visual Studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.MenuForm.resources
+C:\Users\Home\Документы\Visual Studio 2013\Projects\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.EditMenuForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.exe.config
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.exe
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\bin\Debug\DataBaseInterface.pdb
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.csprojResolveAssemblyReference.cache
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.AdminForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.AdminLoginForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.EditMenuForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.LoginForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.MenuForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.Properties.Resources.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.csproj.GenerateResource.Cache
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.csproj.CoreCompileInputs.cache
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.exe
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.pdb
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.SumOfDeliviresForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.CompleteOrderForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.DiscountMenuForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.VisitorForm.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\DataBaseInterface.LoginForm.az-Cyrl.resources
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\bin\Debug\az-Cyrl\DataBaseInterface.resources.dll
+C:\Users\FedorovA\Downloads\DataBaseInterface\DataBaseInterface\obj\Debug\az-Cyrl\DataBaseInterface.resources.dll
